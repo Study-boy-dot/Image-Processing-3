@@ -21,3 +21,6 @@
 
 ## Execute Code
 Run through CIFAR10_Trained_with_MyNet.ipynb file, will generate a model "mynet.pth"
+
+## Code Review
+hackmd: https://hackmd.io/@1Xh3vNpPQ1ebdS9gVi7gXg/B11k4LWz6

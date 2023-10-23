@@ -21,7 +21,19 @@
 |matplotlib|3.3.1|
 
 ## Execute Code
-`CIFAR10_Trained_with_MyNet.ipynb`: classify cifar10 with my CNN and output model file
+python CIFAR10_UI.py
+
+![image](https://github.com/Study-boy-dot/Image-Processing-3/assets/80616480/e17fd7dc-34b7-45cc-884f-c279eaf7b998)
+1. Show 9 cifar10 images
+2. Print out model structure
+3. Show Image augmentation result
+4. Show training and validation process history
+5. Use trained model doing prediction
+```diff
+- Remember to train your own model with my provided code or yourself and modify filepath of model
+```
+
+`CIFAR10_Trained_with_MyNet.ipynb`: classify cifar10 with my CNN and output model file  
 `CIFAR10_Trained_with_VGG19_TransferLearning.ipynb`: classify cifar10 with pretrained vgg19 and output model file
 
 ## Code Review

@@ -1,6 +1,7 @@
 # Image-Processing-3
  Training CNN with cifar10 dataset
-**kaggle version:** https://www.kaggle.com/dataminingee/cifar10-with-mycnn
+**kaggle version mynet:** https://www.kaggle.com/dataminingee/cifar10-with-mycnn
+**kaggle version vgg19 transfer learning:** https://www.kaggle.com/dataminingee/cifar10-trained-with-vgg19-transferlearning
 
 ## Environment
 |Environment|Version|
@@ -20,7 +21,8 @@
 |matplotlib|3.3.1|
 
 ## Execute Code
-Run through CIFAR10_Trained_with_MyNet.ipynb file, will generate a model "mynet.pth"
+`CIFAR10_Trained_with_MyNet.ipynb`: classify cifar10 with my CNN and output model file
+`CIFAR10_Trained_with_VGG19_TransferLearning.ipynb`: classify cifar10 with pretrained vgg19 and output model file
 
 ## Code Review
 hackmd: https://hackmd.io/@1Xh3vNpPQ1ebdS9gVi7gXg/B11k4LWz6
